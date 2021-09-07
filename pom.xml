@@ -57,7 +57,7 @@
     <repository>
       <id>github</id>
       <name>GitHub LRnielsen Apache Maven Packages</name>
-      <url>https://maven.pkg.github.com/LRnielsen/test</url>
+      <url>https://maven.pkg.github.com/my-cloud-business/test-lib</url>
     </repository>
  </distributionManagement>
 
@@ -74,7 +74,7 @@
 			</repository>
 			<repository>
 				<id>github</id>
-				<url>https://maven.pkg.github.com/LRnielsen/*</url>
+				<url>https://maven.pkg.github.com/my-cloud-business/*</url>
 				<snapshots>
 					<enabled>true</enabled>
 				</snapshots>
